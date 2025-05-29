@@ -45,11 +45,11 @@ Ecommerce-Backend/
 
 1. **Database Setup:**
 
-   * Create a MySQL database, e.g., `ecomdb`.
+   * Create a MySQL database, e.g., `ecommerce_db`.
    * Update `application.properties`:
 
      ```properties
-     spring.datasource.url=jdbc:mysql://localhost:3306/ecomdb
+     spring.datasource.url=jdbc:mysql://localhost:3306/ecommerce_db
      spring.datasource.username=root
      spring.datasource.password=yourpassword
      spring.jpa.hibernate.ddl-auto=update
@@ -129,5 +129,5 @@ Ecommerce-Frontend/
 * Product List (from Spring Boot backend)
 * Dynamic rendering using React components
 * Fully responsive UI
-* Easy integration with further features (cart, checkout, login)
+* Easy integration with further features (cart, checkout)
 
