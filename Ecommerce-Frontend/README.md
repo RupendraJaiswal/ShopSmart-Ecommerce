@@ -22,7 +22,7 @@ A Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/RupendraJaiswal/ShopSmart-Ecommerce/blob/master/Ecommerce-Frontend.git
 ```
 
 Go to the project directory
